@@ -1,0 +1,25 @@
+_repo: Chats-on-Angling_43874
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43874-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hart-Davis, H. V.
+    alias: Hart-Davis, Henry Vaughan
+    gutenberg_agent_id: '42449'
+    url: http://www.gutenberg.org/2009/agents/42449
+description: Illustrated by the author.
+gutenberg_issued: '2013-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Fishing'
+title: Chats on Angling
+url: http://www.gutenberg.org/ebooks/43874
